@@ -1,0 +1,60 @@
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\bin\Debug\netcoreapp3.1\Models.dll
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\bin\Debug\netcoreapp3.1\Models.pdb
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\obj\Debug\netcoreapp3.1\Models.dll
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\obj\Debug\netcoreapp3.1\Models.pdb
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\bin\Debug\netcoreapp3.1\Leads.Core.dll
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\bin\Debug\netcoreapp3.1\Utilerias.dll
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\bin\Debug\netcoreapp3.1\Leads.Core.pdb
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\bin\Debug\netcoreapp3.1\Utilerias.pdb
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\obj\Debug\netcoreapp3.1\Models.csproj.CopyComplete
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\LeadsCore\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\LeadsCore\bin\Debug\netcoreapp3.1\Models.dll
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\LeadsCore\bin\Debug\netcoreapp3.1\Models.pdb
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\LeadsCore\bin\Debug\netcoreapp3.1\Leads.Core.dll
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\LeadsCore\bin\Debug\netcoreapp3.1\Utilerias.dll
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\LeadsCore\bin\Debug\netcoreapp3.1\Leads.Core.pdb
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\LeadsCore\bin\Debug\netcoreapp3.1\Utilerias.pdb
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\LeadsCore\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\LeadsCore\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\LeadsCore\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\LeadsCore\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\LeadsCore\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\LeadsCore\obj\Debug\netcoreapp3.1\Models.csproj.CopyComplete
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\LeadsCore\obj\Debug\netcoreapp3.1\Models.dll
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\LeadsCore\obj\Debug\netcoreapp3.1\Models.pdb
+C:\gitPage\ProofApis\LeadsCore\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+C:\gitPage\ProofApis\LeadsCore\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitPage\ProofApis\LeadsCore\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\gitPage\ProofApis\LeadsCore\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\gitPage\ProofApis\LeadsCore\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\gitPage\ProofApis\LeadsCore\obj\Debug\netcoreapp3.1\Models.dll
+C:\gitPage\ProofApis\LeadsCore\obj\Debug\netcoreapp3.1\Models.pdb
+C:\gitPage\ProofApis\LeadsCore\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\gitPage\ProofApis\LeadsCore\bin\Debug\netcoreapp3.1\Models.dll
+C:\gitPage\ProofApis\LeadsCore\bin\Debug\netcoreapp3.1\Models.pdb
+C:\gitPage\ProofApis\LeadsCore\bin\Debug\netcoreapp3.1\Proof.Core.dll
+C:\gitPage\ProofApis\LeadsCore\bin\Debug\netcoreapp3.1\Utilerias.dll
+C:\gitPage\ProofApis\LeadsCore\bin\Debug\netcoreapp3.1\Proof.Core.pdb
+C:\gitPage\ProofApis\LeadsCore\bin\Debug\netcoreapp3.1\Utilerias.pdb
+C:\gitPage\ProofApis\LeadsCore\obj\Debug\netcoreapp3.1\Models.csproj.CopyComplete
+C:\Examen\ProofApis\LeadsCore\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Examen\ProofApis\LeadsCore\bin\Debug\netcoreapp3.1\Models.dll
+C:\Examen\ProofApis\LeadsCore\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Examen\ProofApis\LeadsCore\bin\Debug\netcoreapp3.1\Proof.Core.dll
+C:\Examen\ProofApis\LeadsCore\bin\Debug\netcoreapp3.1\Utilerias.dll
+C:\Examen\ProofApis\LeadsCore\bin\Debug\netcoreapp3.1\Proof.Core.pdb
+C:\Examen\ProofApis\LeadsCore\bin\Debug\netcoreapp3.1\Utilerias.pdb
+C:\Examen\ProofApis\LeadsCore\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+C:\Examen\ProofApis\LeadsCore\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examen\ProofApis\LeadsCore\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Examen\ProofApis\LeadsCore\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Examen\ProofApis\LeadsCore\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Examen\ProofApis\LeadsCore\obj\Debug\netcoreapp3.1\Models.csproj.CopyComplete
+C:\Examen\ProofApis\LeadsCore\obj\Debug\netcoreapp3.1\Models.dll
+C:\Examen\ProofApis\LeadsCore\obj\Debug\netcoreapp3.1\Models.pdb

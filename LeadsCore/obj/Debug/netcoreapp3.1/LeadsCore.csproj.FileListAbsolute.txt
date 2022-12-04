@@ -1,0 +1,10 @@
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\bin\Debug\netcoreapp3.1\LeadsCore.deps.json
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\bin\Debug\netcoreapp3.1\LeadsCore.dll
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\bin\Debug\netcoreapp3.1\LeadsCore.pdb
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\obj\Debug\netcoreapp3.1\LeadsCore.csproj.AssemblyReference.cache
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\obj\Debug\netcoreapp3.1\LeadsCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\obj\Debug\netcoreapp3.1\LeadsCore.AssemblyInfoInputs.cache
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\obj\Debug\netcoreapp3.1\LeadsCore.AssemblyInfo.cs
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\obj\Debug\netcoreapp3.1\LeadsCore.csproj.CoreCompileInputs.cache
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\obj\Debug\netcoreapp3.1\LeadsCore.dll
+C:\repoDimex\LeadServices\LeadsServices\LeadsCore\obj\Debug\netcoreapp3.1\LeadsCore.pdb

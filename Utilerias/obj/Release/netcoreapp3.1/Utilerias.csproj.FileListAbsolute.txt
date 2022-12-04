@@ -1,0 +1,10 @@
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\Utilerias\bin\Release\netcoreapp3.1\Utilerias.deps.json
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\Utilerias\bin\Release\netcoreapp3.1\Utilerias.dll
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\Utilerias\bin\Release\netcoreapp3.1\Utilerias.pdb
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\Utilerias\obj\Release\netcoreapp3.1\Utilerias.csproj.AssemblyReference.cache
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\Utilerias\obj\Release\netcoreapp3.1\Utilerias.GeneratedMSBuildEditorConfig.editorconfig
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\Utilerias\obj\Release\netcoreapp3.1\Utilerias.AssemblyInfoInputs.cache
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\Utilerias\obj\Release\netcoreapp3.1\Utilerias.AssemblyInfo.cs
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\Utilerias\obj\Release\netcoreapp3.1\Utilerias.csproj.CoreCompileInputs.cache
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\Utilerias\obj\Release\netcoreapp3.1\Utilerias.dll
+C:\tfsSoc\Dev\Ticket 108252 - Visualizador de leads\Src\ApisLeads\Utilerias\obj\Release\netcoreapp3.1\Utilerias.pdb
